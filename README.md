@@ -19,9 +19,33 @@ of China.
   </div>
   
 ---
-![image153.gif](image153.gif)  ![image153.gif](image154.gif)  ![image153.gif](image155.gif)
+<div align='center'>
+  <img src='image153.gif'>
+  </div>
   
 ---
-![image153.gif](image156.gif)  ![image157.gif](image157.gif)  ![image158.gif](image158.gif)
+<div align='center'>
+  <img src='image154.gif'>
+  </div>
+  
+---
+<div align='center'>
+  <img src='image155.gif'>
+  </div>
+  
+---
+<div align='center'>
+  <img src='image156.gif'>
+  </div>
+  
+---
+<div align='center'>
+  <img src='image157.gif'>
+  </div>
+  
+---
+<div align='center'>
+  <img src='image158.gif'>
+  </div>
   
 ---
