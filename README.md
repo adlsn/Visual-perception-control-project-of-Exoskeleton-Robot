@@ -10,42 +10,88 @@ of China.
   <img src='fig1.png'>
   </div>
   
+<div align='center'>  
+  
+> ### Depth camera-equipped lasso exoskeleton robot  
+
+  </div>
+
 ---
 ![fig6.jpg](fig6.jpg)  ![fig7.jpg](fig7.jpg)
+<div align='center'>  
+  
+> ### Depth camera slope detection experiment
+
+  </div>
   
 ---
 <div align='center'>
   <img src='image149.gif'>
+  </div>
+  <div align='center'>  
+  
+> ### Exoskeleton gait auto-adjustment test on stairs
+
   </div>
   
 ---
 <div align='center'>
   <img src='image153.gif'>
   </div>
+  <div align='center'>  
+  
+> ### Semantic segmentation pixel results
+
+  </div>
   
 ---
 <div align='center'>
   <img src='image154.gif'>
+  </div>
+  <div align='center'>  
+  
+> ### Semantic segmentation results matched with real-world scenes
+
   </div>
   
 ---
 <div align='center'>
   <img src='image155.gif'>
   </div>
+  <div align='center'>  
+  
+> ### Semantic segmentation motion control with travel path correction baseline
+
+  </div>
   
 ---
 <div align='center'>
   <img src='image156.gif'>
+  </div>
+  <div align='center'>  
+  
+> ### Semantic segmentation pixel recognition results under terrain switching conditions
+
   </div>
   
 ---
 <div align='center'>
   <img src='image157.gif'>
   </div>
+  <div align='center'>  
+  
+> ### Semantic segmentation results matched with real-world scenes
+
+  </div>
   
 ---
 <div align='center'>
   <img src='image158.gif'>
+  </div>
+  <div align='center'>  
+  
+> ### Semantic segmentation motion control with travel path correction baseline （upstairs）
+
   </div>
   
 ---
